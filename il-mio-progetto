@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Il mio progetto: un Hub Culturale a Partinico fondato da Marcello Salvia. Spazio teatrale, caffetteria, corsi e eventi nel cuore di Partinico.">
+  <meta name="keywords" content="Marcello Salvia, Hub Culturale Partinico, spazio teatrale Partinico, caffetteria Partinico, corsi teatrali Partinico, eventi Partinico">
+  <meta name="author" content="Marcello Salvia">
+  <title>Il mio progetto — Marcello Salvia | Hub Culturale Partinico</title>
+  <style>
+    body {
+      font-family: 'Garamond', serif;
+      line-height: 1.6;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f7f4;
+    }
+    header {
+      background: url('https://via.placeholder.com/1920x600/8B7355/FFFFFF?text=Il+Mio+Progetto') no-repeat center center;
+      background-size: cover;
+      color: white;
+      text-align: center;
+      padding: 80px 20px;
+      position: relative;
+    }
+    header::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.4);
+    }
+    header h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+      position: relative;
+      z-index: 2;
+    }
+    header p {
+      font-size: 1.2em;
+      max-width: 800px;
+      margin: 0 auto 20px;
+      position: relative;
+      z-index: 2;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    section {
+      margin-bottom: 60px;
+    }
+    h2 {
+      color: #8b7355;
+      border-bottom: 2px solid #b89a5f;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+    .intro {
+      text-align: center;
+      font-size: 1.1em;
+      max-width: 800px;
+      margin: 0 auto 40px;
+    }
+    .features {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+    }
+    .feature {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      flex: 1 1 300px;
+      text-align: center;
+    }
+    .feature h3 {
+      color: #8b7355;
+      margin-top: 0;
+    }
+    footer {
+      background: #333;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 60px;
+    }
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 2em;
+      }
+      header p {
+        font-size: 1em;
+      }
+      .container {
+        padding: 0 15px;
+      }
+      .feature {
+        flex: 1 1 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Il mio progetto</h1>
+    <p>Un Hub Culturale a Partinico — fondato da Marcello Salvia</p>
+  </header>
+
+  <div class="container">
+    <section id="mission">
+      <h2>Mission</h2>
+      <div class="intro">
+        <p>Creare un hub culturale accessibile che favorisca la produzione artistica locale e offra servizi culturali, formativi e ricreativi: scuola di teatro, residenze per artisti, programmazione teatrale, laboratori, eventi familiari e noleggio sala per meeting aziendali.</p>
+      </div>
+    </section>
+
+    <section id="vision">
+      <h2>Vision</h2>
+      <div class="intro">
+        <p>Diventare uno spazio di rigenerazione urbana che valorizzi il centro storico di Partinico, renda la cultura un motore di coesione sociale e sviluppo economico locale, e sia modello replicabile di sostenibilità e inclusione nelle piccole città.</p>
+      </div>
+    </section>
+
+    <section id="valori">
+      <h2>Valori</h2>
+      <div class="features">
+        <div class="feature">
+          <h3>Sostenibilità</h3>
+          <p>Gestione a basso impatto energetico, materiali e fornitori locali, uso efficiente delle risorse.</p>
+        </div>
+        <div class="feature">
+          <h3>Inclusione</h3>
+          <p>Politiche tariffarie differenziate, accessibilità fisica e programmazione per fasce d’età e bisogni diversificati.</p>
+        </div>
+        <div class="feature">
+          <h3>Promozione del territorio</h3>
+          <p>Collaborazione con enti locali, promozione di artisti siciliani, sinergie con attività turistiche e culturali regionali.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="impatti">
+      <h2>Impatti sociali e culturali</h2>
+      <div class="intro">
+        <p>OFFICINA CREATIVA SRLS nasce per trasformare cultura in opportunità concreta: creare lavoro, valorizzare il centro storico e rigenerare la vita sociale di Partinico. La presenza di un hub culturale stabile migliora l’immagine del territorio e ne aumenta l’attrattività turistica ed economica, creando un circolo virtuoso tra eventi, commercio locale e visita al centro storico.</p>
+        <p>Attraverso programmazione regolare, corsi formativi e residenze artistiche, Officina Creativa favorisce integrazione sociale, inclusione di fasce svantaggiate e partecipazione intergenerazionale, promuovendo solidarietà civica e senso di comunità.</p>
+        <p>L’arte come strumento di trasformazione produce impatti misurabili: aumento della frequentazione degli spazi pubblici, crescita di reti collaborative e nuove opportunità imprenditoriali; la promozione culturale continua rende riconoscibile il territorio su scala regionale e alimenta l’orgoglio locale.</p>
+        <p>Investire in cultura qui non è un costo, ma una strategia di sviluppo sostenibile che genera valore sociale, economico e identitario.</p>
+      </div>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Hub Culturale Partinico — Fondato da Marcello Salvia</p>
+  </footer>
+</body>
+</html>
