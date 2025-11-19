@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://marcellodesign.github.io/hubculturalepartinico/index.html</loc>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Chi sono -->
+    <url>
+        <loc>https://marcellodesign.github.io/hubculturalepartinico/chi-sono.html</loc>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Il mio progetto -->
+    <url>
+        <loc>https://marcellodesign.github.io/hubculturalepartinico/il-mio-progetto.html</loc>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- La mia Sicilia -->
+    <url>
+        <loc>https://marcellodesign.github.io/hubculturalepartinico/la-mia-sicilia.html</loc>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Gallery -->
+    <url>
+        <loc>https://marcellodesign.github.io/hubculturalepartinico/gallery.html</loc>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog -->
+    <url>
+        <loc>https://marcellodesign.github.io/hubculturalepartinico/blog.html</loc>
+        <lastmod>2025-11-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Articoli del blog (esempi) -->
+    <url>
+        <loc>https://marcellodesign.github.io/hubculturalepartinico/articolo-cultura-partinico.html</loc>
+        <lastmod>2025-11-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://marcellodesign.github.io/hubculturalepartinico/cose-creare-hub-culturale-piccola-citta.html</loc>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://marcellodesign.github.io/hubculturalepartinico/teatro-rigenerazione-urbana.html</loc>
+        <lastmod>2025-11-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://marcellodesign.github.io/hubculturalepartinico/intervista-marcello-salvia-teatro.html</loc>
+        <lastmod>2025-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://marcellodesign.github.io/hubculturalepartinico/recensione-spazio-teatro-partinico.html</loc>
+        <lastmod>2025-10-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Contatti -->
+    <url>
+        <loc>https://marcellodesign.github.io/hubculturalepartinico/contatti.html</loc>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+</urlset>
